@@ -13,11 +13,12 @@
 ## ✨ Features
 
 - **🎨 Full Copy**: accurately clones channels, categories, and roles.
-- **🔐 Permission Preservation**: Maintains role permissions and channel overwrites (User/Role specific).
-- **🚀 High Speed**: Optimized for speed while adhering to rate limits.
+- **� Backup & Restore**: Save servers to JSON files and restore them later.
+- **⚙️ Selective Cloning**: Choose to clone only roles, channels, or settings.
+- **�🔐 Permission Preservation**: Maintains role permissions and channel overwrites.
+- **🚀 High Speed**: Optimized for speed with visual progress bars.
 - **🛡️ Safe Mode**: Adjustable delays to prevent API bans.
-- **🎭 Role Hierarchy**: Correctly sorts and creates roles with colors and properties.
-- **🧹 Auto-Clean**: Options to wipe the target server before cloning.
+- **💾 Auto-Config**: Saves your token securely for future sessions.
 
 ---
 
