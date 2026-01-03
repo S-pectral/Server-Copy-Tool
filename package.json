@@ -1,0 +1,18 @@
+{
+    "name": "server-c9py",
+    "version": "1.0.0",
+    "description": "Discord Server Cloner & Automation System",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "chalk": "^4.1.2",
+        "discord.js-selfbot-v13": "^2.14.0",
+        "figlet": "^1.6.0",
+        "gradient-string": "^2.0.2",
+        "inquirer": "^8.2.5"
+    },
+    "author": "Spectral.",
+    "license": "ISC"
+}
